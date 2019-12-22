@@ -1,0 +1,8 @@
+#include<iostream.h>
+int main()
+{
+cout<<"enter the number";
+int a;
+cin>>a;
+cout<<"the number enter is:"<<a;
+}
